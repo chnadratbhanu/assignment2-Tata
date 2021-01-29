@@ -26,9 +26,11 @@ Introduction:- Adi Yogi 112 feet ... Isha yoga centre in India is scared space w
 
 # MATLAB
 > MATLAB (an abbreviation of "matrix laboratory") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks.
+
 MATLAB source Link < https://en.wikipedia.org/wiki/MATLAB#Variables >
+
 An example of a simple class.
-~~~
+```
 
 classdef Hello
     methods
@@ -37,5 +39,5 @@ classdef Hello
         end
     end
 end
-~~~
+```
 MATLAB code source< https://sourceforge.net/directory/os:windows/?q=matlab+code >
