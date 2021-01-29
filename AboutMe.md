@@ -14,3 +14,10 @@ Introduction:- Adi Yogi 112 feet ... Isha yoga centre in India is scared space w
 | ooty | 2 days | 10000 rs |
 | goa | 4 days | 200000 rs |
 | maldives | 1 week | 500000 rs |
+
+***
+
+# Pithy Quotes
+> Don't be dead serious about your life ***Sadhguru***
+>
+> live a life Close to the Nature ***chandra***
