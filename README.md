@@ -64,13 +64,13 @@ MATLAB code source< https://sourceforge.net/directory/os:windows/?q=matlab+code 
 
 ![repo on VS Code for submission](image/ss01_assignement2_Tata_vscode.png)
 
-![VS Code of edited README](image/ss2_assignement2_Tata_vscod_edit.png)
+![VS Code of edited README](image/ss2_assignement2_tata_vscode_edit.png)
 
 ![GitHub showing section](image/ss3_assignement2_githubor.png)
 
 ![GitHub desktop changes for README](image/ss4_assignement2_githubdesktopreadme.png)
 
-![GitHub desktop showing the changes for AboutMe](mage/ss5_assignement2_githubdesktop.png)
+![GitHub desktop showing the changes for AboutMe](image/ss5_assignement2_githubdesktop.png)
 
 ![GitHub showing the table section](image/ss6_assignement2_githubtables.png)
 
