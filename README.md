@@ -70,7 +70,7 @@ MATLAB code source< https://sourceforge.net/directory/os:windows/?q=matlab+code 
 
 ![GitHub desktop changes for README](image/ss4_assignement2_githubdesktopreadme.png)
 
-![GitHub desktop showing the changes for AboutMe](image/ss5_assignement2_githubdesktop.png)
+![GitHub desktop showing the changes for AboutMe](image/ss5_ssignement2_githubdesktop.png)
 
 ![GitHub showing the table section](image/ss6_assignement2_githubtables.png)
 
