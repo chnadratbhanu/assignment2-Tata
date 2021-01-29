@@ -11,5 +11,10 @@ Sambar often contains **sambar powder**, a coarse spice mix made of roasted lent
     2. Publish your tournament.
     3. Share your tournament
     4. Manage your participants
-2. Place your participants
-3. Enter match results.
+1. Place your participants
+2. Enter match results
+    * Prizes
+        * First prize
+        * Second prize
+        * Thrid prize
+1. Prize distribution
