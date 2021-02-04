@@ -9,8 +9,8 @@ Sambar often contains **sambar powder**, a coarse spice mix made of roasted lent
 1. Create the tournament
     1. Choose a structure/format
     2. Publish your tournament.
-    3. Share your tournament
-    4. Manage your participants
+    3. Share your tournament 
+    4. Manage your participants[Volleyball Tournament participants](image/Volleyball_Tournament.png.png)
 1. Place your participants
 2. Enter match results
     * Prizes
@@ -23,15 +23,15 @@ Sambar often contains **sambar powder**, a coarse spice mix made of roasted lent
 
 ***
 
-# Isha Yoga Center
+# Travelling Detail's
 Introduction:- Adi Yogi 112 feet ... Isha yoga centre in India is scared space where spiritual seeker from all over
 
 | location | number of hours | amount of money |
 | -------- | --------------- | --------------- |
-| combatore | 4 | free |
-| ooty | 2 days | 10000 rs |
-| goa | 4 days | 200000 rs |
-| maldives | 1 week | 500000 rs |
+| [Isha Yoga Center](/image/isha_yoga_centre.png) | 4 | free |
+| [ooty](/image/ooty.png) | 2 days | 10000 rs |
+| [goa](/image/goa.png) | 4 days | 200000 rs |
+| [maldives](/image/maldives.png) | 1 week | 500000 rs |
 
 ***
 
@@ -59,21 +59,3 @@ classdef Hello
 end
 ```
 MATLAB code source< https://sourceforge.net/directory/os:windows/?q=matlab+code >
-
----
-
-![repo on VS Code for submission](image/ss01_assignement2_Tata_vscode.png)
-
-![VS Code of edited README](image/ss2_assignement2_tata_vscode_edit.png)
-
-![GitHub showing section](image/ss3_assignement2_githubor.png)
-
-![GitHub desktop changes for README](image/ss4_assignement2_githubdesktopreadme.png)
-
-![GitHub desktop showing the changes for AboutMe](image/ss5_ssignement2_githubdesktop.png)
-
-![GitHub showing the table section](image/ss6_assignement2_githubtables.png)
-
-![GitHub showing Pithy Quotes](image/ss7_assignement2_github_quotes.png)
-
-![GitHub showing chunk of code](image/ss8_assignement2_githubmatlab.png)
