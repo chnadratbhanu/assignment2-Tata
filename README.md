@@ -15,7 +15,7 @@ Sambar often contains **sambar powder**, a coarse spice mix made of roasted lent
 2. Enter match results
     * Prizes
         * First prize
-        [Perfect Shot](image/Volleyball_Tournament.png.png)
+![Perfect Shot](image/Volleyball_Tournament.png.png)
         * Second prize
         * Thrid prize
 1. Prize distribution
