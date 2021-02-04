@@ -10,11 +10,12 @@ Sambar often contains **sambar powder**, a coarse spice mix made of roasted lent
     1. Choose a structure/format
     2. Publish your tournament.
     3. Share your tournament 
-    4. Manage your participants[Volleyball Tournament participants](image/Volleyball_Tournament.png.png)
+    4. Manage your participants
 1. Place your participants
 2. Enter match results
     * Prizes
         * First prize
+        [Perfect Shot](image/Volleyball_Tournament.png.png)
         * Second prize
         * Thrid prize
 1. Prize distribution
